@@ -14,9 +14,6 @@
 
 I’m **Priya S**, a passionate Full Stack Developer with **3 years** of hands‑on experience building robust, user‑centric applications. When I’m not coding, you’ll find me creating tech tutorials on **YouTube**, writing insightful articles on **Medium**, and sharing behind‑the‑scenes moments on **Instagram**.
 
-- 🎥 **YouTube**: Weekly deep‑dives into Spring Boot & Angular patterns  
-- ✍️ **Medium**: Articles on clean architecture & performance tuning  
-- 📸 **Instagram**: Quick tips, dev life, and occasional travel snaps  
 - ☕ **Coffee aficionado**: Fueled by espresso and good music  
 - 🧩 **Problem solver**: Love turning complex requirements into elegant solutions  
 - 🌱 **Lifelong learner**: Constantly exploring new tech & best practices  
