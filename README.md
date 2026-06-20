@@ -65,9 +65,6 @@ I’m **Priya S**, a passionate Full Stack Developer with **3 years** of hands�
 
 ## 🙋‍♀️ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/priya030401/)  
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white)](https://youtube.com/channel/youryoutubeid)  
-[![Medium](https://img.shields.io/badge/Medium-@priya030401-000000?logo=medium&logoColor=white)](https://medium.com/@priya030401)  
-[![Instagram](https://img.shields.io/badge/Instagram-%40priya030401-E4405F?logo=instagram&logoColor=white)](https://instagram.com/priya030401)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/priya030401/) 
 
 *Thank you for visiting my profile! Let’s build something amazing together.*  
